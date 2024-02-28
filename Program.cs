@@ -1,8 +1,9 @@
 ﻿/*
 Author: Venkata Dharma Teja Konakanchi
 Date: 1/28/2024
+Program: Bubble Sort
 Comments: This C# Console Application code demonstrating the
-    Bubble Sort Algorithms. No input
+    Bubble Sort Algorithm. No input
     is required for the script. It will execute without 
     input against pre-populated array. 
 */
